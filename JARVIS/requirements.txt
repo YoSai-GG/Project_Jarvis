@@ -1,0 +1,4 @@
+﻿keyring
+pyttsx3
+sounddevice
+vosk
